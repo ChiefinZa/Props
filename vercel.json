@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/props.js": { "maxDuration": 30 }
+  }
+}
