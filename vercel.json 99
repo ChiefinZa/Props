@@ -1,0 +1,6 @@
+{
+  "functions": {
+    "api/props.js": { "maxDuration": 30 },
+    "api/grade.js": { "maxDuration": 30 }
+  }
+}
